@@ -78,9 +78,7 @@ python run.py --devices 0,1,2,3 --train false
 
 ### 2. Disparity Analysis
 
-After running the model training/evaluation, use the Jupyter n
-
-The notebook performs:
+After running the model training/evaluation, use the Jupyter notebook to perform:
 - Mean pain score calculations across demographic groups
 - Disparity analysis controlling for KLG severity
 - Disparity analysis controlling for model predictions
